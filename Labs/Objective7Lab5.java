@@ -13,7 +13,7 @@ public class Objective7Lab5 {
 
       selection = scanner.nextInt();
 
-      switch(selection){
+      switch (selection) {
         case 1:
         System.out.println("Hello Human");
         break;
@@ -22,9 +22,13 @@ public class Objective7Lab5 {
         break;
         case 3:
         System.out.println("Goodbye");
+        System.exit(0);
+        break;
+        default:
+        System.out.println (" Invalid option... Please try again ");
         break;
       }
-      
+
     }
 
 
