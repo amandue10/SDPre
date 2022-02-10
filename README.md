@@ -41,3 +41,19 @@ Objective 7 Lab 3 - Identify Odd and Even Numbers
 Objective 7 Lab 4 - Sum Numbers
 
 Objective 7 Lab 5 - Menu System
+
+Objective 8 Lab 1 - Printing Numbers
+
+Objective 8 Lab 2 - Sum Numbers
+
+Objective 8 Lab 3 - Identify Odd and Even Numbers
+
+Objective 9 Lab 1 - Print via Method
+
+Objective 9 Lab 2 - Print Message
+
+Objective 9 Lab 3 - Menu Method
+
+Objective 9 Lab 4 - Find Average
+
+Objective 9 Lab 5 - Comprehensive Menu
